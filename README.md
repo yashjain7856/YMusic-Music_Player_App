@@ -7,7 +7,7 @@ An android app which will fetch all the songs in the external storage of the dev
 This app is built in Java using Android Studio. External storage permission is taken using dexter - https://github.com/Karumi/Dexter 
 
 ## User Interface
-The list of all songs looks as the following image. This is first interface of the app after you provide the permissions.
+The list of all songs looks as the following image. This is first interface of the app after you provide the permissions from device.
 
 <img src="music_list.jpeg" alt="music_list" width="250"/>
 
